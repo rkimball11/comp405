@@ -51,4 +51,5 @@ end
 
 group :production do
 	gem 'pg'
+	gem 'web-console', '~> 2.0'
 end
